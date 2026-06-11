@@ -7,7 +7,7 @@ export default function App() {
             <StatusBar style="dark" />
             <View style={styles.card}>
                 <View style={styles.avatar}>
-                    <Text style={styles.avatarText}>SU</Text>
+                    <Text style={styles.avatarText}>AB</Text>
                 </View>
                 <Text style={styles.name}>MD ABDULLAH AL MUTI</Text>
                 <Text style={styles.role}>Computer Science — AIUB</Text>
